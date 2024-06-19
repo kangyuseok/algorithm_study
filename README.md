@@ -148,7 +148,7 @@ git commit -m "Hello World / 1분"
         <td><a href="https://www.acmicpc.net/problem/1913">바로가기</a></td>
     </tr>
     <tr style="text-align: center">
-        <td>BOJ</td><td>14916</td><td>거스름돈</td>
-        <td><a href="https://www.acmicpc.net/problem/14916">바로가기</a></td>
+        <td>BOJ</td><td>10828</td><td>스택</td>
+        <td><a href="https://www.acmicpc.net/problem/10828">바로가기</a></td>
     </tr>
 </table>
