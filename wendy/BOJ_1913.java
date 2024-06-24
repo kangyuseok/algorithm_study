@@ -13,6 +13,7 @@ public class BOJ_1913 {
         int move = 1;
         int x = n/2;
         int y = n/2;
+        
         while(true){
             for(int i=0; i<move; i++){
                 arr[x--][y] = value++;
