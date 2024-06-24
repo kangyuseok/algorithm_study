@@ -13,6 +13,7 @@ public class boj_5597 {
         for(int i=0;i<28;i++) {
             st = new StringTokenizer(br.readLine());
             int a = Integer.parseInt(st.nextToken());
+            
             arr.add(a);
         }
 
