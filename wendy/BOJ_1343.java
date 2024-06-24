@@ -6,6 +6,7 @@ public class BOJ_1343 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         String input = sc.nextLine();
+        
         // 간단한 풀이
         // input = input.replaceAll("XXXX", "AAAA");
         // input = input.replaceAll("XX", "BB");
@@ -14,11 +15,13 @@ public class BOJ_1343 {
         // }else{
         //     System.out.print(input);
         // }
+
         // 내 풀이
         String[] str_X = input.split("(?<=\\.)|(?=\\.)");
         String ans_str= "";
         int count=0;
         int len = str_X.length;
+
         for(int i=0; i<len; i++){
             int get_len = str_X[i].length();
             if(str_X[i].equals(".")){
