@@ -1,4 +1,4 @@
-import sys
+import sys 
 num = int(sys.stdin.readline())
 
 lst = []
