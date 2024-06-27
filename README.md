@@ -138,7 +138,7 @@ git commit -m "Hello World / 1분"
         <td><a href="https://www.acmicpc.net/problem/14916">바로가기</a></td>
     </tr>
 
-<tr style="text-align: center">
+   <tr style="text-align: center">
         <td rowspan="3">2주차</td>
         <td>BOJ</td><td>5597</td><td>과제 안내신분..?</td>
         <td><a href="https://www.acmicpc.net/problem/5597">바로가기</a></td>
@@ -150,5 +150,19 @@ git commit -m "Hello World / 1분"
     <tr style="text-align: center">
         <td>BOJ</td><td>10828</td><td>스택</td>
         <td><a href="https://www.acmicpc.net/problem/10828">바로가기</a></td>
+    </tr>
+
+  <tr style="text-align: center">
+        <td rowspan="3">3주차</td>
+        <td>BOJ</td><td>2798</td><td>블랙잭</td>
+        <td><a href="https://www.acmicpc.net/problem/2798">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>BOJ</td><td>10845</td><td>큐</td>
+        <td><a href="https://www.acmicpc.net/problem/10845">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>BOJ</td><td>10870</td><td>피보나치의 수 5</td>
+        <td><a href="https://www.acmicpc.net/problem/10870">바로가기</a></td>
     </tr>
 </table>
