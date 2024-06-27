@@ -158,8 +158,8 @@ git commit -m "Hello World / 1분"
         <td><a href="https://www.acmicpc.net/problem/2798">바로가기</a></td>
     </tr>
     <tr style="text-align: center">
-        <td>BOJ</td><td>10845</td><td>큐</td>
-        <td><a href="https://www.acmicpc.net/problem/10845">바로가기</a></td>
+        <td>BOJ</td><td>1260</td><td>DFS와 BFS</td>
+        <td><a href="https://www.acmicpc.net/problem/1260">바로가기</a></td>
     </tr>
     <tr style="text-align: center">
         <td>BOJ</td><td>10870</td><td>피보나치의 수 5</td>
