@@ -124,20 +124,45 @@ git commit -m "Hello World / 1분"
 <a href="https://goorm.notion.site/1-c14c9512cacf42b5bc033a30a044bb69">노션 바로가기</a>
 # ✅ 문제
 <table>
-    <!-- 23.07.10 문제 -->
     <tr style="text-align: center">
         <td rowspan="3">1주차</td>
-        <td>BOJ</td><td>17413</td><td>단어 뒤집기 2</td><td>실버2</td>
+        <td>BOJ</td><td>17413</td><td>단어 뒤집기 2</td>
         <td><a href="https://www.acmicpc.net/problem/17413">바로가기</a></td>
     </tr>
     <tr style="text-align: center">
-        <td>BOJ</td><td>1343</td><td>폴리오미노</td><td>실버5</td>
+        <td>BOJ</td><td>1343</td><td>폴리오미노</td>
         <td><a href="https://www.acmicpc.net/problem/1343">바로가기</a></td>
     </tr>
     <tr style="text-align: center">
-        <td>BOJ</td><td>14916</td><td>거스름돈</td><td>실버5</td>
+        <td>BOJ</td><td>14916</td><td>거스름돈</td>
         <td><a href="https://www.acmicpc.net/problem/14916">바로가기</a></td>
     </tr>
-    <!-- 23.07.17 문제 -->
 
+   <tr style="text-align: center">
+        <td rowspan="3">2주차</td>
+        <td>BOJ</td><td>5597</td><td>과제 안내신분..?</td>
+        <td><a href="https://www.acmicpc.net/problem/5597">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>BOJ</td><td>1913</td><td>달팽이</td>
+        <td><a href="https://www.acmicpc.net/problem/1913">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>BOJ</td><td>10828</td><td>스택</td>
+        <td><a href="https://www.acmicpc.net/problem/10828">바로가기</a></td>
+    </tr>
+
+  <tr style="text-align: center">
+        <td rowspan="3">3주차</td>
+        <td>BOJ</td><td>2798</td><td>블랙잭</td>
+        <td><a href="https://www.acmicpc.net/problem/2798">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>BOJ</td><td>1260</td><td>DFS와 BFS</td>
+        <td><a href="https://www.acmicpc.net/problem/1260">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>BOJ</td><td>10870</td><td>피보나치의 수 5</td>
+        <td><a href="https://www.acmicpc.net/problem/10870">바로가기</a></td>
+    </tr>
 </table>
