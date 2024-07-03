@@ -9,12 +9,18 @@ public class boj_10870 {
 
         int[] arr = new int[num + 1];
 
-        arr[0] = 0;
-        arr[1] = 1;
+        if(num == 0){
+            System.out.println(0);
+        } else if(num == 1) {
+            System.out.println(1);
+        } else if(num > 1) {
+            arr[0] = 0;
+            arr[1] = 1;
 
-        for(int i=2; i<num + 1; i++){
-            arr[i] = arr[i-2] + arr[i-1];
+            for (int i = 2; i < num + 1; i++) {
+                arr[i] = arr[i - 2] + arr[i - 1];
+            }
+            System.out.println(arr[num]);
         }
-        System.out.println(arr[num]);
     }
 }
