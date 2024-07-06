@@ -165,4 +165,18 @@ git commit -m "Hello World / 1분"
         <td>BOJ</td><td>10870</td><td>피보나치의 수 5</td>
         <td><a href="https://www.acmicpc.net/problem/10870">바로가기</a></td>
     </tr>
+
+   <tr style="text-align: center">
+        <td rowspan="3">4주차</td>
+        <td>BOJ</td><td>1463</td><td>1로 만들기</td>
+        <td><a href="https://www.acmicpc.net/problem/1463">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>BOJ</td><td>2167</td><td>2차원 배열의 합</td>
+        <td><a href="https://www.acmicpc.net/problem/2167">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>BOJ</td><td>14425</td><td>문자열 집합</td>
+        <td><a href="https://www.acmicpc.net/problem/14425">바로가기</a></td>
+    </tr>
 </table>
