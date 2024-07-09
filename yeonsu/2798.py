@@ -11,4 +11,5 @@ result = 0
 for cards in combinations(array,3):
     if sum(cards) <= k: # 카드들을 더한 닶이 k보다 작거나 같은걸 찾음!
         result = max(result,sum(cards)) # result에 카드들 더한 값 중 가장 최댓값을 넣어줌
+        print(result)
 print(result) # 출력 ~~
